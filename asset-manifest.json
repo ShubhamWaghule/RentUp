@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RentUp/static/css/main.7be81a1a.css",
+    "main.js": "/RentUp/static/js/main.5cd3ab69.js",
+    "static/media/about.jpg": "/RentUp/static/media/about.56e92b20e762df2fa5de.jpg",
+    "static/media/pricing.jpg": "/RentUp/static/media/pricing.4552ccf3b91e93029513.jpg",
+    "static/media/services.jpg": "/RentUp/static/media/services.13be7fde05782bd5e2e8.jpg",
+    "static/media/banner.png": "/RentUp/static/media/banner.1a3c8a0a448e8e24f6a0.png",
+    "index.html": "/RentUp/index.html",
+    "main.7be81a1a.css.map": "/RentUp/static/css/main.7be81a1a.css.map",
+    "main.5cd3ab69.js.map": "/RentUp/static/js/main.5cd3ab69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7be81a1a.css",
+    "static/js/main.5cd3ab69.js"
+  ]
+}
